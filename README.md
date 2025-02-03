@@ -40,7 +40,7 @@ A machine learning-powered web application that predicts Titanic survivors using
 ## 🔧 Installation & Setup  
 1️⃣ **Clone the repository**  
 
-git clone https://github.com/yourusername/Titanic-Survival-Predictor.git
+git clone https://github.com/saifudheenTK/Titanic-Survival-Predictor.git
 
 2️⃣ Navigate to the project directory
 
